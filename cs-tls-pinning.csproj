@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Optimize>true</Optimize>
+    <AssemblyName>cs-tls-pinning</AssemblyName>
+    <RootNamespace>tls_pinning</RootNamespace>
+    <Description>TLS certificate pinning with HttpClientHandler</Description>
+    <Authors>Mahmoud ElNemer</Authors>
+    <PackageProjectUrl>https://github.com/ElNeMeR70/cs-tls-pinning</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ElNeMeR70/cs-tls-pinning</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+</Project>
